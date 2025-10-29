@@ -43,7 +43,7 @@
                      │ Contexto
                      ▼
 ┌─────────────────────────────────────────────────────────────┐
-│                  OpenAI GPT-3.5/4                           │
+│              OpenAI (GPT-3.5-turbo/GPT-4)                   │
 │  - Genera respuestas contextuales                          │
 │  - Mantiene tono profesional                               │
 └─────────────────────────────────────────────────────────────┘
@@ -279,5 +279,5 @@ python telegram_bot.py
 
 ---
 
-**Última actualización**: Octubre 2024  
+**Última actualización**: Octubre 2025  
 **Versión**: 1.0.0
